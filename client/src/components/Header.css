@@ -1,0 +1,17 @@
+.navlinks {
+  display: flex;
+  text-decoration: none;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.navcontent {
+  justify-content: start;
+  background-color:#f59e42;
+
+}
