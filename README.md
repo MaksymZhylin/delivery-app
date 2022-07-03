@@ -1,5 +1,15 @@
 # delivery-app
 
+### Preparing to launch a project
+
+- While in the **client** and **server** folders, run the command below in the console. Thus, we will download the files necessary for the project to work.
+
+```
+npm i
+```
+
+### Launch of the project
+
 - Start the server first. To do this, go to the server folder and use the command given below to start the server. The server will be on port 3001.
 
 ```
