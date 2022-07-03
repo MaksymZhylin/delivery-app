@@ -8,7 +8,7 @@ const GoodsCard = (props) => {
   const { name, id } = props;
 
   return (
-    <Button variant='outlined' size='large' onClick={() => setSelectStores(id)}>
+    <Button size='large' onClick={() => setSelectStores(id)}>
       {name}
     </Button>
   );

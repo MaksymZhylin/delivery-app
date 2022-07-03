@@ -18,11 +18,6 @@ const Cart = () => {
             <SelectedProducts />
           </Grid>
         </Grid>
-        <Grid container>
-          <Grid item xs={12} sm={12} md={12} lg={12}>
-            <Button>Submit</Button>
-          </Grid>
-        </Grid>
       </Container>
     </>
   );
